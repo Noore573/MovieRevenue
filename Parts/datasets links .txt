@@ -20,3 +20,7 @@ https://drive.google.com/file/d/1L4qadvT7gvCuDZEynve072_f98lD3oPK/view?usp=drive
     "https://datasets.imdbws.com/title.ratings.tsv.gz",
     "https://datasets.imdbws.com/title.principals.tsv.gz",
     "https://datasets.imdbws.com/name.basics.tsv.gz"
+
+
+/// the final compined data 
+https://drive.google.com/file/d/1fQ6NfLqpjuji_aEUjv_8lQZ1QffAHztt/view?usp=sharing
