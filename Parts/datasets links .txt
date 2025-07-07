@@ -1,0 +1,22 @@
+// leen original 
+https://drive.google.com/file/d/1FbTri_OGjhNy8RdzH3Q2r3iQvQRc79TU/view?usp=sharing
+
+
+//leen after noore modifications
+https://drive.google.com/file/d/1e5MujyboHR0xp3KV4ZWJXPdk_rSp1r7L/view?usp=drive_link
+
+//hanaa and leen combined 
+https://drive.google.com/file/d/1RDf4Q24UDsKg6suppFdteqj5WY_Qljqi/view?usp=drive_link
+
+
+//imdb actors with ratings 
+https://drive.google.com/file/d/1q1G66gPJIDNZPydPNwlC3XEsE8yUz917/view?usp=sharing
+
+//hanaa full dataset 
+https://drive.google.com/file/d/1L4qadvT7gvCuDZEynve072_f98lD3oPK/view?usp=drive_link
+
+//the imdbs 
+    "https://datasets.imdbws.com/title.basics.tsv.gz",
+    "https://datasets.imdbws.com/title.ratings.tsv.gz",
+    "https://datasets.imdbws.com/title.principals.tsv.gz",
+    "https://datasets.imdbws.com/name.basics.tsv.gz"
