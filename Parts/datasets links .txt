@@ -20,6 +20,8 @@ https://drive.google.com/file/d/1L4qadvT7gvCuDZEynve072_f98lD3oPK/view?usp=drive
     "https://datasets.imdbws.com/title.ratings.tsv.gz",
     "https://datasets.imdbws.com/title.principals.tsv.gz",
     "https://datasets.imdbws.com/name.basics.tsv.gz"
+// actors data from noore + hanna
+https://drive.google.com/file/d/1q1G66gPJIDNZPydPNwlC3XEsE8yUz917/view?usp=drive_link
 
 
 /// the final compined data 
